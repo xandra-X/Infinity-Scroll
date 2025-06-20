@@ -3,7 +3,7 @@
 ## 📜 Description
 This is a simple web application that demonstrates how to implement infinite scrolling using the [Unsplash API](https://unsplash.com/developers). As you scroll down the page, more images are loaded automatically, creating a smooth and dynamic image gallery experience.
 
-![screenshot](./picInpic.png)
+![screenshot](./images.png)
 
 ## 🌐 Live Demo
 
